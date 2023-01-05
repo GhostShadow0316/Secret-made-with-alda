@@ -1,0 +1,197 @@
+##### Secret #####
+
+(tempo! 128)
+
+
+piano:
+    V1:
+    (vol 50)
+
+    o3 b8 | o4 e f+ g b a g | f+ g f+4 >c4. <b8 a f+ | g b >e4. <a8 e g | f+ a >d4. <d8 g {f+ g}16 f+16 e8 g >c4. <a8 b >c |
+    o5 d8 <b g4 e8 >c <b/f+ a | g a b4 a8 g f+ g | f+4 >c4. %steel-1
+    o5 <b8 a f+ | g b >e4. <a8 e g | f+ a >d4. <d8 g {f+ g}16 f+16 e8 g >c4. <a8 b >c | d8 <b g4 e8 >c <b/f+ a | g4
+    
+    %recorder-1
+    o5 g4~16 f+16 a g f+ e d+ e | d g  b >d c <b a g >c <a g+ a f+ a d f+ | g8~16 f+16
+    o5 g4~16 f+16 a g f+ e d+ e | d c <b >c d <b a g >c <a g+ a f+ a d f+ | g8 c %reverse-1 <b a b4
+    
+    %trumpet-1
+    o4 f+/<b/f+4 | o4 g/<g/e/<e4 o4 b/g/e4  o3 g/d/<d4 o4 b/g/e4 | o3 g/c/<c4 o4 b/g/e4  o3 g/b/<b4 o4 >c/<f+/d+4 |
+    o4             o4 g/<g/e/<e4 o4 b/g/e4  o3 g/d/<d4 o4 b/g/e4 | o3 g/c/<c4 o4 b/g/e4  o3 g/b/<b4 o4 >c/<f+/d+4 |
+    
+    o3 g16 b >f+ d+ g b >f+ d+    e g >e <b >f+ e g d+ | o5 e b >d c <b a e f+ g b <g >g f+ <a f+ >f+ |
+    o4 g16 b >f+ d+ g b >f+ d+ o6 e g >e <b >f+ e g d e      <b >d c <b a e f+ g <b g >g f+ <a f+ >f+ |
+    
+    %violin-1
+    o6 f16 e d+ <b >d c+ <a+ b >c <b f+ g b a e f+ | g c e b a c b a f+ <b >d+ b f+ <b >b a |
+    o6 r16 e d+ <b >d c+ <a+ b >c <b f+ g b a e f+ | g c e b a %reverse-2 c b a f+ <b >d+ b f+ <b >b a |
+    
+    %trumpet-2
+    o4 g4/<g/e/<e4 o4 b/g/e4  o3 g/d/<d4 o4 b/g/e4 | o3 g/c/<c4 o4 b/g/e4  o3 g/b/<b4 o4 >c/<f+/d+4 |
+    o4 g4/<g/e/<e4 o4 b/g/e4  o3 g/d/<d4 o4 b/g/e4 | o3 g/c/<c4 o4 b/g/e4  o3 g/b/<b4 o4 >c/<f+/d+4 |
+
+    o3 g16 b >f+ d+ g b >f+ d+    e g >e <b >f+ e g d+ | o5 e b >d c <b a e f+ g b <g >g f+ <a f+ >f+ |
+    o4 g16 b >f+ d+ g b >f+ d+ o6 e g >e <b >f+ e g d e      <b >d c <b a e f+ g <b g >g f+ <a f+ >f+ |
+
+    (tempo! 125)
+    o5 >e8/<b/g/e8 {b/e/<b >b/e/<b}8 >b/e/<b8 {>c/<e/c >c/<e/c}8 >c/<e/c8 a/f+/c/<a8 >b/g/e/<b8
+    o4 {g/e/<b/g >g/e/<b/g}8 >g/e/<b/g8 {>a/e/c/<a >a/e/c/<a}8 >a/e/c/<a8 >b/f+/d+/<b8 %epiano-1 (vol 0)
+    o5 >e8/<b/g/e8 {b/e/<b >b/e/<b}8 >b/e/<b8 {>c/<e/c >c/<e/c}8 >c/<e/c8 a/f+/c/<a8 >b/g/e/<b8
+    o4 {g/e/<b/g >g/e/<b/g}8 >g/e/<b/g8 {>a/e/c/<a >a/e/c/<a}8 >a/e/c/<a8 >f+/<a/f+8
+    (tempo! 128) (vol 50)
+
+    %recorder-outro
+    o5 e16/<e16 f+ g g+ a a+ b >c <b >e d e g f+ e d | >e/<e f+ g g+ a a+ b >c <b >e d+ e g/<b >f+/<a >e/<g >d/<f+ | >e/<b/g/e4 r2 o7 e8
+    
+
+    V2:
+    (vol 30)
+
+    o3 r8 | e8 >c <b g f+ e d+ e | <b >a f+ e d+4 f+ | e g8 d c+4 a | d f+8 c <b4 >g | c e8 g+ a4 c |
+    o3 d4 b8 g >c4 <d+ | e8 >c <b g f+ e d+ e | <b >a f+ e d+4 f+ |
+    o3 e4 g8 d c+4 a | d4 f8 c <b4 >g | c4 e8 <g+ a4 >c | d b8 g c4 d+ | e8 b
+    
+    o3 g8 b c+ a e a | d b g b d >c <a >c | <e b
+    o3 g b c+ a e a d b g b d >c <a >c | g/<g e d c d4
+    
+    o3 d+/<d+4 | r16 o3 f+ g a g f+ g a  r16 o3 f+ g a g f+ g a | r16 o3 f+ g a g f+ g a r16 o3 f+ g a b a g f+ |
+    o3 r16 o3 f+ g a g f+ g a  r16 o3 f+ g a g f+ g a | r16 o3 f+ g a g f+ g a  r16 o3 f+ g a b a g f+ |
+    
+    o3 e4/<e4 o4 e/<b/g  o3 d/<d o4 e/<b/g | o3 c/<c4 o4 e/c/<a  o3 b/<b o4 c/<f+/d+ |
+    o3 e4/<e4 o4 e/<b/g  o3 d/<d o4 e/<b/g | o3 c/<c4 o4 e/c/<a  o3 b/<b o4 c/<f+/d+ |
+    
+    o3 e/<e4 o4 e/<b/g  o3 d/<d o4 e/<b/g | o3 c/<c4 o4 e/c/<a  o2 b/<b o4 c/<f+/d+ |
+    o3 e/<e4 o4 e/<b/g  o3 d/<d o4 e/<b/g | o3 c/<c4 o4 e/c/<a  o2 b/<b o4 c/<f+/d+ |
+    
+    o3 r16 o3 f+ g a g f+ g a  r16 o3 f+ g a g f+ g a | r16 o3 f+ g a g f+ g a r16 o3 f+ g a b a g f+ |
+    o3 r16 o3 f+ g a g f+ g a  r16 o3 f+ g a g f+ g a | r16 o3 f+ g a g f+ g a r16 o3 f+ g a b a g f+ |
+    
+    o3 e4/<e4 o4 e/<b/g  o3 d/<d o4 e/<b/g | o3 c/<c4 o4 e/c/<a  o3 b/<b o4 c/<f+/d+ |
+    o3 e4/<e4 o4 e/<b/g  o3 d/<d o4 e/<b/g | o3 c/<c4 o4 e/c/<a  o3 b/<b o4 c/<f+/d+ |
+
+    (tempo! 125)
+    o2 e/<e8 o4 {e/<g/e >e/<g/e}8 >e/<g/e8 {>e/c/a e/c/a}8 e/c/a8 o2 d+/<d+8 >e/<e
+    o3 {b/g/e b/g/e}8 b/g/e8 {>c/<a/c >c/<a/c}8 >c/<a/c8 b/<b8 >e/<e8
+    o4 {e/<g/e >e/<g/e}8 >e/<g/e8 {>e/c/a e/c/a}8 e/c/a8 o2 d+/<d+8 >e/<e
+    o3 {b/g/e b/g/e}8 b/g/e8 {>c/<a/c >c/<a/c}8 >c/<a/c8 b/<b8
+    (tempo! 128)
+
+    o3 e8/<e8 >g/e/<b >a/f+/c <b/<b >e/<e >>g/e/<b >a/f+/c <b/<b | >e/<e >>g/e/<b >a/f+/c <b/<b >e/<e >>g/e/<b >a/f+/c <b/<b
+
+######################################################################################################################################################
+######################################################################################################################################################
+
+midi-steel-drums:
+    (vol 40)
+    V1:
+    @steel-1
+    o5 <b8 a f+ | g b >e4. <a8 e g | f+ a >d4. <d8 g {f+ g}16 f+16 e8 g >c4. <a8 b >c | d8 <b g4 e8 >c <b/f+ a | g4
+    
+    o4 g4~16 f+16 a g f+ e d+ e | d g  b >d c <b a g >c <a g+ a f+ a d f+ | g8~16 f+16
+    o4 g4~16 f+16 a g f+ e d+ e | d c <b >c d <b a g >c <a g+ a f+ a d f+ | g8 c <b a b4
+
+######################################################################################################################################################
+######################################################################################################################################################
+
+midi-recorder:
+    V1:
+    (vol 40)
+    @recorder-1
+    o5 g4~16 f+16 a g f+ e d+ e | d g  b >d c <b a g >c <a g+ a f+ a d f+ | g8~16 f+16
+    o5 g4~16 f+16 a g f+ e d+ e | d c <b >c d <b a g >c <a g+ a f+ a d f+ | g8 c <b a b4
+
+    V2:
+    (vol 40)
+    @recorder-1
+    o4 g4~16 f+16 a g f+ e d+ e | d g  b >d c <b a g >c <a g+ a f+ a d f+ | g8~16 f+16
+    o4 g4~16 f+16 a g f+ e d+ e | d c <b >c d <b a g >c <a g+ a f+ a d f+ | g8 c <b a b4
+    o3 d+/<d+4 | r16 o3 f+ g a g f+ g a  r16 o3 f+ g a g f+ g a | r16 o3 f+ g a g f+ g a r16 o3 f+ g a b a g f+ |
+    o3 r16 o3 f+ g a g f+ g a  r16 o3 f+ g a g f+ g a | r16 o3 f+ g a g f+ g a  r16 o3 f+ g a b a g f+ |
+
+    V3:
+    (vol 40)
+    @recorder-outro
+    o3 e16 f+ g g+ a a+ b >c <b >e d e g f+ e d | e f+ g g+ a a+ b >c <b >e d+ e g f+ e d | e4
+
+######################################################################################################################################################
+######################################################################################################################################################
+
+midi-trumpet:
+    (vol 20)
+    (mp)
+    V1:
+    @trumpet-1
+    o4 f+/<b/f+4 | o4 g/<g/e/<e4 o4 b/g/e4  o3 g/d/<d4 o4 b/g/e4 | o3 g/c/<c4 o4 b/g/e4  o3 g/b/<b4 o4 >c/<f+/d+4 |
+    o4             o4 g/<g/e/<e4 o4 b/g/e4  o3 g/d/<d4 o4 b/g/e4 | o3 g/c/<c4 o4 b/g/e4  o3 g/b/<b4 o4 >c/<f+/d+4 |
+
+    V2:
+    @trumpet-2
+    o4 g/<g/e/<e4 o4 b/g/e4  o3 g/d/<d4 o4 b/g/e4 | o3 g/c/<c4 o4 b/g/e4  o3 g/b/<b4 o4 >c/<f+/d+4 |
+    o4 g/<g/e/<e4 o4 b/g/e4  o3 g/d/<d4 o4 b/g/e4 | o3 g/c/<c4 o4 b/g/e4  o3 g/b/<b4 o4 >c/<f+/d+4 |
+
+######################################################################################################################################################
+######################################################################################################################################################
+
+midi-electric-grand-piano:
+    V1:
+    (vol 50)
+    @epiano-1
+    o4 >e8/<b/g/e8 {b/e/<b >b/e/<b}8 >b/e/<b8 {>>c/<e/c >c/<e/c}8 >c/<e/c8 a/f+/c/<a8 >b/g/e/<b8
+    o4 {g/e/<b/g >g/e/<b/g}8 >g/e/<b/g8 {>a/e/c/<a >a/e/c/<a}8 >a/e/c/<a8 >f+/<a/f+8
+
+######################################################################################################################################################
+######################################################################################################################################################
+
+midi-violin:
+    (vol 30)
+    V1:
+    @violin-1
+    o5 f16 e d+ <b >d c+ <a+ b >c <b f+ g b a e f+ |  g c e b a c b a f+ <b >d+ b f+ <b >b a |
+    o5 r16 e d+ <b >d c+ <a+ b >c <b f+ g b a e f+ |  g c e b a c b a f+ <b >d+ b f+ <b >b a |
+
+######################################################################################################################################################
+######################################################################################################################################################
+
+midi-reverse-cymbal:
+    (vol 25)
+    V1: (tempo 10) @reverse-1 c4~4.....
+    V2: (tempo 10) @reverse-2 c4~4.....
+
+######################################################################################################################################################
+######################################################################################################################################################
+
+midi-acoustic-bass:
+    
+    V1:
+    (vol 45)
+
+    o3 r8 | e8 >c <b g f+ e d+ e | <b >a f+ e d+4 f+ | e g8 d c+4 a | d f+8 c <b4 >g | c e8 g+ a4 c |
+    o3 d4 b8 g >c4 <d+ | e8 >c <b g f+ e d+ e | <b >a f+ e d+4 f+ |
+    o3 e4 g8 d c+4 a | d4 f8 c <b4 >g | c4 e8 <g+ a4 >c | d b8 g c4 d+ | e8 b
+    
+    o3 g8 b c+ a e a | d b g b d >c <a >c | <e b
+    o3 g b c+ a e a d b g b d >c <a >c | g/<g e d c d4
+    
+    o3 d+/<d+4 | r16 o3 f+ g a g f+ g a  r16 o3 f+ g a g f+ g a | r16 o3 f+ g a g f+ g a r16 o3 f+ g a b a g f+ |
+    o3 r16 o3 f+ g a g f+ g a  r16 o3 f+ g a g f+ g a | r16 o3 f+ g a g f+ g a  r16 o3 f+ g a b a g f+ |
+    
+    o3 e4/<e4 o4 e/<b/g  o3 d/<d o4 e/<b/g | o3 c/<c4 o4 e/c/<a  o3 b/<b o4 c/<f+/d+ |
+    o3 e4/<e4 o4 e/<b/g  o3 d/<d o4 e/<b/g | o3 c/<c4 o4 e/c/<a  o3 b/<b o4 c/<f+/d+ |
+    
+    o3 e/<e4 o4 e/<b/g  o3 d/<d o4 e/<b/g | o3 c/<c4 o4 e/c/<a  o2 b/<b o4 c/<f+/d+ |
+    o3 e/<e4 o4 e/<b/g  o3 d/<d o4 e/<b/g | o3 c/<c4 o4 e/c/<a  o2 b/<b o4 c/<f+/d+ |
+    
+    o3 r16 o3 f+ g a g f+ g a  r16 o3 f+ g a g f+ g a | r16 o3 f+ g a g f+ g a r16 o3 f+ g a b a g f+ |
+    o3 r16 o3 f+ g a g f+ g a  r16 o3 f+ g a g f+ g a | r16 o3 f+ g a g f+ g a r16 o3 f+ g a b a g f+ |
+
+    o3 e4/<e4 o4 e/<b/g  o3 d/<d o4 e/<b/g | o3 c/<c4 o4 e/c/<a  o3 b/<b o4 c/<f+/d+ |
+    o3 e4/<e4 o4 e/<b/g  o3 d/<d o4 e/<b/g | o3 c/<c4 o4 e/c/<a  o3 b/<b o4 c/<f+/d+ |
+
+    (tempo! 125)
+    o2 e/<e8 o4 {e/<g/e >e/<g/e}8 >e/<g/e8 {>e/c/a e/c/a}8 e/c/a8 o2 d+/<d+8 >e/<e
+    o3 {b/g/e b/g/e}8 b/g/e8 {>c/<a/c >c/<a/c}8 >c/<a/c8 b/<b8 >e/<e8
+    o4 {e/<g/e >e/<g/e}8 >e/<g/e8 {>e/c/a e/c/a}8 e/c/a8 o2 d+/<d+8 >e/<e
+    o3 {b/g/e b/g/e}8 b/g/e8 {>c/<a/c >c/<a/c}8 >c/<a/c8 b/<b8
+    (tempo! 128)
+
+    o3 e8/<e8 >g/e/<b >a/f+/c <b/<b >e/<e >>g/e/<b >a/f+/c <b/<b | >e/<e >>g/e/<b >a/f+/c <b/<b >e/<e >>g/e/<b >a/f+/c <b/<b
